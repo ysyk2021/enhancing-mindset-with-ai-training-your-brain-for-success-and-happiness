@@ -1,5 +1,4 @@
-Using Machine Learning-Powered Goal-Setting and Tracking
-============================================================================================
+
 
 Setting goals is an essential part of personal growth and development, but achieving those goals can be challenging. Fortunately, machine learning-powered goal-setting and tracking tools can help individuals stay on track and make progress towards their goals.
 
