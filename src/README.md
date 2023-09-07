@@ -10,3 +10,7 @@ Furthermore, we will address ethical considerations and best practices for using
 By the end of this book, you will have a deeper understanding of how AI technology can enhance your mindset for greater success and happiness. You will be equipped with strategies and techniques for integrating AI into your personal development efforts while maintaining authenticity and integrity. So let's dive in and explore the exciting possibilities of enhancing mindset with AI!
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
