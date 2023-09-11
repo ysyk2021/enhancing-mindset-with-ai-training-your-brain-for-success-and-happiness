@@ -1,5 +1,4 @@
-Chapter 6: AI-Powered Personalized Coaching for Improving Self-Awareness and Emotional Intelligence
-===================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the transformative role of AI-powered personalized coaching in enhancing self-awareness and emotional intelligence. By harnessing artificial intelligence, individuals can embark on a journey of self-discovery and personal growth, leading to greater emotional intelligence and overall mindset improvement.
 

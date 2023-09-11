@@ -1,5 +1,4 @@
-Chapter 5: Common Applications of AI in Mindset Enhancement, Including Meditation and Goal-Setting
-==================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the widespread applications of AI technology in mindset enhancement, focusing on two key areas: meditation and goal-setting. These applications demonstrate how AI can be harnessed to optimize mindfulness practices and empower individuals to set, track, and achieve their mindset improvement goals.
 

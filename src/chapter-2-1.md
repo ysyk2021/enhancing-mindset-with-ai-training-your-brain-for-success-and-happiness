@@ -1,5 +1,4 @@
-Chapter 1: What is AI and How Does it Work for Enhancing Mindset?
-=================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this opening chapter, we will embark on a journey to understand the fundamentals of AI (Artificial Intelligence) and explore how this transformative technology can be harnessed to enhance our mindset for success and happiness.
 

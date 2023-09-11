@@ -1,5 +1,4 @@
-Chapter 5: Personalizing Goals with Machine Learning
-====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the transformative potential of machine learning in personalizing and tailoring your goals to align with your unique aspirations, strengths, and circumstances. By harnessing the power of AI-driven personalization, you can enhance your mindset for success and happiness in a way that is specifically tailored to you.
 

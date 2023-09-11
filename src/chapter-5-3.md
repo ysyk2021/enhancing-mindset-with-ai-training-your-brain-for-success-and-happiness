@@ -1,5 +1,4 @@
-Chapter 8: Personalizing Meditation Practices with Machine Learning
-===================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the innovative integration of machine learning (ML) techniques to personalize meditation practices. By harnessing the power of ML, individuals can optimize their mindfulness routines, aligning them with their unique needs and mindset enhancement objectives.
 

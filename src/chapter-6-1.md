@@ -1,5 +1,4 @@
-Chapter 8: Using Machine Learning-Powered Goal Setting and Tracking
-===================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the dynamic world of machine learning-powered goal setting and tracking, exploring how these advanced technologies can revolutionize the way individuals pursue their objectives and enhance their mindset for success and happiness.
 

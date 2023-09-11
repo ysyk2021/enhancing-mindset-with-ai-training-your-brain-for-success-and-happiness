@@ -1,5 +1,4 @@
-Chapter 4: Setting Realistic Goals and Tracking Progress on Your Mindset Optimization Journey
-=============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we'll explore the importance of setting realistic goals and implementing effective progress tracking methods to maximize your success and happiness through AI-driven mindset optimization.
 

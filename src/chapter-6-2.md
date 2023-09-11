@@ -1,5 +1,4 @@
-Chapter 6: AI-Powered Decision-Making Tools for Goal Attainment
-===============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the cutting-edge capabilities of AI-powered decision-making tools and their role in helping individuals achieve their goals and enhance their mindset for success and happiness. These tools have the potential to revolutionize the way we make decisions and navigate our personal and professional lives.
 

@@ -1,5 +1,4 @@
-Chapter 5: Steps for Creating a Personalized Mindset Improvement Strategy
-=========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will guide you through the process of crafting a personalized mindset improvement strategy with the assistance of AI, paving the way for your journey towards success and happiness.
 
